@@ -79,7 +79,16 @@ Dissemination
 📄 Enterprise Threat Intelligence Assessment Report.pdf
 
 📖 README.md
+## 📸 Evidence
 
+### NSLookup
+![NSLookup](images/nslookup.png)
+
+### WHOIS
+![WHOIS](images/whois.png)
+
+### Maltego
+![Maltego](images/maltego.png)
 ---
 
 ## 👨‍💻 Author
