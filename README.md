@@ -51,7 +51,7 @@ Dissemination
 | 🌐 NSLookup | DNS Resolution |
 | 📡 WHOIS | Domain Registration Lookup |
 | 🕸️ Maltego | Relationship Mapping |
-| 💻 Windows CMD | Command Execution |
+
 
 ---
 
