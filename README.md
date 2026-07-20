@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="images/NIIT-Port-Harcourt.png" alt="NIIT Port Harcourt Logo" width="180">
+</p>
+
+<h1 align="center">Enterprise Threat Intelligence Assessment</h1>
+
+<p align="center">
+Open-Source Intelligence (OSINT) • Threat Intelligence • Infrastructure Discovery
+</p>
+
+<p align="center">
+  <a href="./Enterprise-Threat-Intelligence-Assessment.pdf">
+    <img src="https://img.shields.io/badge/View%20Full%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Full Report">
+  </a>
+</p>
 # 🛡️ Enterprise Threat Intelligence Assessment
 
 ![OSINT](https://img.shields.io/badge/OSINT-Investigation-blue)
@@ -76,9 +91,33 @@ Dissemination
 
 ## 📁 Repository Contents
 
-📄 Enterprise Threat Intelligence Assessment Report.pdf
+## 📄 Enterprise Threat Intelligence Assessment Report
 
----
+<p align="center">
+  <a href="./Enterprise Threat Intelligence Assessment Report.pdf">
+    <img src="https://img.shields.io/badge/View%20Full%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Full Report">
+  </a>
+</p>
+## 📸 Project Screenshots
+
+### NSLookup
+
+<p align="center">
+  <img src="images/nslookup.png" alt="NSLookup Output" width="800">
+</p>
+
+### WHOIS
+
+<p align="center">
+  <img src="images/whois.png" alt="WHOIS Output" width="800">
+</p>
+
+### Maltego
+
+<p align="center">
+  <img src="images/maltego.png" alt="Maltego Graph" width="800">
+</p>
+
 
 ## 👨‍💻 Author
 
