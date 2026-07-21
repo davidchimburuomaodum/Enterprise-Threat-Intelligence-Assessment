@@ -110,16 +110,45 @@ Maltego was used to visualize relationships between publicly available infrastru
 <p align="center">
   <img src="images/IMG_20260710_161319_047.png" alt="Maltego Graph" width="900">
 </p>
-## 👨‍💻 Author
+---
 
-**David Chimburuoma Odum**
+# 👨‍💼 About the Author
 
-📧 davidchimburuomaodum@gmail.com
+<p align="center">
 
-🔗 GitHub: https://github.com/davidchimburuomaodum
+## David Chimburuoma Odum
+
+**Security Professional | Criminologist | Cybersecurity Analyst**
+
+📍 Nigeria
+
+📧 **Email:** davidchimburuomaodum@gmail.com
+
+🐙 **GitHub:** https://github.com/davidchimburuomaodum
+
+### 🛡️ Areas of Interest
+
+- Cyber Threat Intelligence (CTI)
+- Open-Source Intelligence (OSINT)
+- Digital Footprint Analysis
+- Threat Analysis
+- Cybersecurity Research
+- Security Risk Assessment
+
+</p>
 
 ---
 
-> **Educational Purpose Only**
+> ⚠️ **Disclaimer**
 >
-> This project was conducted using **passive OSINT techniques** and did not involve unauthorized access, exploitation, or intrusive testing.
+> This assessment was conducted using passive Open-Source Intelligence (OSINT) techniques and publicly available information for educational purposes only. No unauthorized access, exploitation, or intrusive testing was performed.
+
+---
+
+<p align="center">
+
+### ⭐ Thank you for visiting this repository!
+
+If you found this project helpful, please consider giving it a ⭐ to support my work.
+
+</p>
