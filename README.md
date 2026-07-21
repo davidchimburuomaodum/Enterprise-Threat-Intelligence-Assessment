@@ -126,15 +126,6 @@ Maltego was used to visualize relationships between publicly available infrastru
 
 🐙 **GitHub:** https://github.com/davidchimburuomaodum
 
-### 🛡️ Areas of Interest
-
-- Cyber Threat Intelligence (CTI)
-- Open-Source Intelligence (OSINT)
-- Digital Footprint Analysis
-- Threat Analysis
-- Cybersecurity Research
-- Security Risk Assessment
-
 </p>
 
 ---
@@ -147,8 +138,4 @@ Maltego was used to visualize relationships between publicly available infrastru
 
 <p align="center">
 
-### ⭐ Thank you for visiting this repository!
-
-If you found this project helpful, please consider giving it a ⭐ to support my work.
-
-</p>
+### ⭐ Thank you for visiting this respository!
