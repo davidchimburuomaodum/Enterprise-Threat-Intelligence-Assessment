@@ -1,19 +1,8 @@
 <p align="center">
-  <img src="images/NIIT-Port-Harcourt.png" alt="NIIT Port Harcourt Logo" width="180">
+  <img src="images/IMG_20260720_180647_482.png" alt="NIIT Port Harcourt Logo" width="180">
 </p>
 
 <h1 align="center">Enterprise Threat Intelligence Assessment</h1>
-
-<p align="center">
-Open-Source Intelligence (OSINT) • Threat Intelligence • Infrastructure Discovery
-</p>
-
-<p align="center">
-  <a href="./Enterprise-Threat-Intelligence-Assessment.pdf">
-    <img src="https://img.shields.io/badge/View%20Full%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Full Report">
-  </a>
-</p>
-# 🛡️ Enterprise Threat Intelligence Assessment
 
 ![OSINT](https://img.shields.io/badge/OSINT-Investigation-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Project-green)
@@ -98,27 +87,29 @@ Dissemination
     <img src="https://img.shields.io/badge/View%20Full%20Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Full Report">
   </a>
 </p>
-## 📸 Project Screenshots
+<h2>📸 Project Screenshots</h2>
+### 🔍 NSLookup
 
-### NSLookup
-
-<p align="center">
-  <img src="images/nslookup.png" alt="NSLookup Output" width="800">
-</p>
-
-### WHOIS
+DNS resolution was performed to identify the IP address associated with the target domain.
 
 <p align="center">
-  <img src="images/whois.png" alt="WHOIS Output" width="800">
+  <img src="images/IMG_20260710_161253_416.png" alt="NSLookup Output" width="900">
 </p>
+### 🌐 WHOIS
 
-### Maltego
+WHOIS was used to identify publicly available domain registration information.
 
 <p align="center">
-  <img src="images/maltego.png" alt="Maltego Graph" width="800">
+  <img src="images/IMG_20260710_161339_409.png" alt="WHOIS Output" width="900">
 </p>
 
+### 🕸️ Maltego
 
+Maltego was used to visualize relationships between publicly available infrastructure and domain entities.
+
+<p align="center">
+  <img src="images/IMG_20260710_161319_047.png" alt="Maltego Graph" width="900">
+</p>
 ## 👨‍💻 Author
 
 **David Chimburuoma Odum**
