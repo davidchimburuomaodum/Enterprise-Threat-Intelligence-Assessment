@@ -88,14 +88,14 @@ Dissemination
   </a>
 </p>
 <h2>📸 Project Screenshots</h2>
-### 🔍 NSLookup
+ 🔍 NSLookup
 
 DNS resolution was performed to identify the IP address associated with the target domain.
 
 <p align="center">
   <img src="images/IMG_20260710_161253_416.png" alt="NSLookup Output" width="900">
 </p>
-### 🌐 WHOIS
+🌐 WHOIS
 
 WHOIS was used to identify publicly available domain registration information.
 
@@ -103,7 +103,7 @@ WHOIS was used to identify publicly available domain registration information.
   <img src="images/IMG_20260710_161339_409.png" alt="WHOIS Output" width="900">
 </p>
 
-### 🕸️ Maltego
+🕸️ Maltego
 
 Maltego was used to visualize relationships between publicly available infrastructure and domain entities.
 
